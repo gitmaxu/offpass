@@ -3,9 +3,10 @@
 Offline random password generator for Android. Free software (GPL-3.0).
 
 ## Screenshots
-
+i)
 ![Screenshot 1](Screenshots/offpass_0.jpg)
 
+ii)
 ![Screenshot 2](Screenshots/offpass_1.jpg)
 
 ## What it does
