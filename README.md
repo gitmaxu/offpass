@@ -4,9 +4,9 @@ Offline random password generator for Android. Free software (GPL-3.0).
 
 ## Screenshots
 
-![Screenshot 1](OffPass/offpass_0.jpg)
+![Screenshot 1](Screenshots/offpass_0.jpg)
 
-![Screenshot 2](OffPass/offpass_1.jpg)
+![Screenshot 2](Screenshots/offpass_1.jpg)
 
 ## What it does
 
