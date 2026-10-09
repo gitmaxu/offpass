@@ -2,6 +2,12 @@
 
 Offline random password generator for Android. Free software (GPL-3.0).
 
+## Screenshots
+
+![Screenshot 1](OffPass/offpass_0.jpg)
+
+![Screenshot 2](OffPass/offpass_1.jpg)
+
 ## What it does
 
 - Tap Generate to make a random password on your device.
@@ -25,11 +31,6 @@ Offline random password generator for Android. Free software (GPL-3.0).
 
 ## Build
 
-    flutter pub get
-    flutter build apk --release
-
-The package ID is offpass.secure.fast.
-
-## License
-
-GPL-3.0. See the LICENSE file.
+```bash
+flutter pub get
+flutter build apk --release
