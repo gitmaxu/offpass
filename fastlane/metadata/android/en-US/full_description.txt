@@ -1,0 +1,7 @@
+Offpass generates strong random passwords on your phone and nothing else.
+
+Pick a length (8, 12 or 16 characters), tap Generate, then copy the result. Every password mixes lowercase letters, uppercase letters, digits and symbols, and is made with your device's secure random number generator.
+
+The app has no internet permission, no ads, no analytics and no accounts. It cannot send anything anywhere. It does not store the passwords it makes.
+
+Free software, open source.
