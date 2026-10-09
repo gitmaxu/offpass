@@ -1,17 +1,18 @@
 # OffPass
 
-A new Flutter project.
+Offline random password generator for Android.
 
-## Getting Started
+- Choose a length (8, 12 or 16 characters) and tap Generate.
+- Every password mixes lowercase, uppercase, digits and symbols.
+- Uses the device's secure random number generator.
+- No internet permission, no ads, no analytics, no accounts.
+- Does not store the passwords it creates.
 
-This project is a starting point for a Flutter application.
+## Build
 
-A few resources to get you started if this is your first Flutter project:
+    flutter pub get
+    flutter build apk --release
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GPL-3.0. See the LICENSE file.
